@@ -1,11 +1,11 @@
 .container {
-    width: 70%;
-    margin-top: 5%;
-    margin-left: 32%;
+  width: 70%;
+  margin-top: 5%;
+  margin-left: 32%;
 }
 body {
-    overflow-x: hidden; /* Hide horizontal scrollbar */
+  overflow-x: hidden; /* Hide horizontal scrollbar */
 }
-.form-control-plaintext{
-    text-align: center;
+.form-control-plaintext {
+  text-align: center;
 }
